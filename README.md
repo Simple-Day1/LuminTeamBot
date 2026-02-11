@@ -192,8 +192,8 @@ game_dev_bot/
 
 ## 👨‍💻 Автор и лицензия
 
-**Автор:** Ваше Имя / Название студии  
-**Telegram:** [@your_username](https://t.me/your_username)  
+**Автор:** Lumin Core
+**Telegram:**   
 **Лицензия:** MIT — свободно используйте и дорабатывайте.
 
 ---
